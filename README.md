@@ -1,11 +1,72 @@
-### 🤓 Who am I? (Briefly):
+<div 
+   align="center"
+>
+   <p
+      style="text-align:center; font-size:30px; ont-family: 'Fira Code'; color:#3DF707; font-weight:400;"
+   >
+      Uttam Gelot <span style="color:#186303; font-style: italic; font-size:14px;">// DevOps cum Sr Software Engineer. </span>
+   </p>
+   <a
+      href="https://www.linkedin.com/in/uttam-gelot"
+   >
+      <img 
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF707&center=true&vCenter=true&width=435&lines=I+Write+Code.;Always+Learning.;DevOps+Cum+Backend+Developer." 
+         alt="Uttam Gelot"
+      />
+   </a>
 
-- 🔵 I’m currently working as Sr Software Engineer, as role of DevOps cum Backend Developer with NodeJS.
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Learn to build big projects with microservices.
+   <!-- Social icons section -->
+   <p
+      align="center"
+   >
+      <a
+         href="https://www.linkedin.com/in/uttam-gelot"
+      >
+         <img
+            width="32px"
+            alt="LinkedIn"
+            title="Uttam Gelot LinkedIn"
+            style="color:gree;"
+            src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+         />
+      </a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a
+         href="https://www.instagram.com/uttam_1137"
+      >
+         <img
+            width="32px"
+            alt="Instagram"
+            title="Uttam Gelot Instagram"
+            src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png"
+         />
+      </a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a
+         href="https://www.hackerrank.com/uttamgelot"
+         alt="Hackerrank"
+         title="Uttam Gelot Hackerrank"
+      >
+         <img
+            width="32px"
+            src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"
+         />
+      </a>
+      &#8287;&#8287;&#8287;&#8287;&#8287;
+      <a
+         href="https://api.whatsapp.com/send?phone=917203919938&text=hi"
+         alt="WhatsApp"
+         title="Uttam Gelot WhatsApp"
+      >
+         <img
+            width="32px"
+            src="https://www.transparentpng.com/thumb/ipl-logo-transparent-images/whatsapp-logo-png-transparent-21.png"
+         />
+      </a>
+   </p>
+</div>
 
 <br/>
-<hr>
 
 ### 👦 Github Stats:
 
@@ -23,16 +84,3 @@
 </p>
 <hr>
 <p>
-    
-### 👨‍💻Connect with me
-
-[<img align="left" alt="f | LinkedIn" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="f | Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-</p>
-
-<br />
-<hr>
-
-[instagram]: https://www.instagram.com/uttam_1137/
-[linkedin]: https://www.linkedin.com/in/uttam-gelot/
