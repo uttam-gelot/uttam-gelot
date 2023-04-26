@@ -100,6 +100,51 @@
 
 <hr/>
 
+## 🏢 Experience
+
+### Sr Software Engineer - <i>2020 - Present</i>
+
+<!-- structure with company name, role responsibility & list of projects -->
+<ul>
+   <li>
+      <b>Company</b> - <i>Bacancy Software LLP.</i>
+   </li>
+   <li>
+      <b>Role</b> - <i>Sr Software Engineer</i>
+   </li>
+   <li>
+      <b>Projects</b>
+      <ul>
+         <li>
+         <b>Project Name</b> - <i>Jakay: Car Market Place</i>
+         <ul>
+            <li>
+               <b>Project Description</b> - <i>E-commerce platform for selling old and new vehicles as individual seller or dealer. Buyer can purchase it with difference payment methods cards, bank transfer or via loan.</i>
+            </li>
+            <li>
+               <b>Technology Stack</b> - <i>NodeJS with Express, Postgres, JWT, PM2, AWS, Jenkins, Github, Stripe, Twilio, Nginx, Swagger</i>
+            </li>
+            <li>
+               <b>Responsibilities</b>
+               <ul>
+                  <li>Maintain code structure, Coding standards with ESList, Babel, etc.</li>
+                  <li>Database Schema Design.</li>
+                  <li>Developing REST APIs using NodeJS with Express with Swagger documentation.</li>
+                  <li>Developing CI/CD pipelines using Github, Jenkins.</li>
+                  <li>Working with AWS services like EC2, S3, ElastiCache, RDS, SES.</li>
+                  <li>Working with Linux servers.</li>
+                  <li>Working with Nginx as a reverse proxy.</li>
+                  <li>Working with PM2 for process management.</li>
+                  <li>Working with Stripe for payment gateway.</li>
+                  <li>Working with Twilio for SMS gateway.</li>
+                  <li>Working with Redis for caching.</li>
+               </ul>
+            </li>
+         </ul>
+      </ul>
+   </li>
+</ul>
+
 ### 👦 Github Stats:
 
 <div align="left">
