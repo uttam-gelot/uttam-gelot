@@ -68,7 +68,7 @@
 
 <br/>
 
-## About Me
+## 👦 About Me
 
 <ul>
   <li>I am a DevOps cum Sr Software Engineer with 3+ years of experience in the IT industry.</li>
@@ -79,6 +79,26 @@
   <li>Experience working with AWS services and developing CI/CD pipelines using Github or Jenkins</li>
   <li>Strong understanding of data structures, algorithms, networking fundamentals, and cloud infrastructure</li>
 </ul>
+
+<hr/>
+
+## 🎓 Education
+
+<ul>
+  <li>
+    <b>Bachlor's of Computer Engineering</b> - <i>2016-2020</i>
+    <ul>
+      <li>
+        <b>University</b> - <i>Gujarat Technological University</i>
+      </li>
+      <li>
+        <b>Percentage</b> - <i>8.98 CGPA</i>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<hr/>
 
 ### 👦 Github Stats:
 
