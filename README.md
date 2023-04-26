@@ -5,8 +5,6 @@
       style="text-align:center; font-size:30px; ont-family: 'Fira Code'; color:#3DF707; font-weight:400; margin-bottom: 5px;"
    >
       Uttam Gelot
-      <span
-         style="color:#186303; font-style: italic; font-size:14px;">// DevOps cum Sr Software Engineer. </span>
    </p>
    <a
       href="https://www.linkedin.com/in/uttam-gelot"
@@ -77,8 +75,8 @@
   <li>Strong understanding of the software development life cycle</li>
   <li>Quick learner and adaptable to new technologies</li>
   <li>Experience developing scalable web applications and databases</li>
-  <li>Proficient in Git, Github, Jenkins, and Jira</li>
-  <li>Experience working with AWS services and developing CI/CD pipelines</li>
+  <li>Proficient in Git, Github, NodeJS, and Python</li>
+  <li>Experience working with AWS services and developing CI/CD pipelines using Github or Jenkins</li>
   <li>Strong understanding of data structures, algorithms, networking fundamentals, and cloud infrastructure</li>
 </ul>
 
