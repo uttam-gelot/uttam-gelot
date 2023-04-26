@@ -70,6 +70,16 @@
 
 <br/>
 
+## About Me
+
+```
+* I am a DevOps cum Sr Software Engineer with 3+ years of experience in the IT industry.
+* With  strong understanding of the software development life cycle and can quickly learn and adapt to new technologies.
+* I have experience developing scalable web applications and databases, and I'm proficient in Git, Github, NodeJS, and Python.
+* I also have experience working with AWS services and developing CI/CD pipelines.
+* I have a strong understanding of data structures, algorithms, networking fundamentals, and cloud infrastructure.
+```
+
 ### 👦 Github Stats:
 
 <div align="left">
