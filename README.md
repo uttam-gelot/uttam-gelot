@@ -1,6 +1,6 @@
 ### 🤓 Who am I? (Briefly):
 
-- 🔵 I’m currently working as Sr Software Engineer mainly with NodeJS.
+- 🔵 I’m currently working as Sr Software Engineer, as role of DevOps cum Backend Developer with NodeJS.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Learn to build big projects with microservices.
 
@@ -33,7 +33,6 @@
 
 <br />
 <hr>
-
 
 [instagram]: https://www.instagram.com/uttam_1137/
 [linkedin]: https://www.linkedin.com/in/uttam-gelot/
