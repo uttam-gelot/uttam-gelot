@@ -1,17 +1,19 @@
-<div 
+<div
    align="center"
 >
    <p
-      style="text-align:center; font-size:30px; ont-family: 'Fira Code'; color:#3DF707; font-weight:400;"
+      style="text-align:center; font-size:30px; ont-family: 'Fira Code'; color:#3DF707; font-weight:400; margin-bottom: 5px;"
    >
-      Uttam Gelot <span style="color:#186303; font-style: italic; font-size:14px;">// DevOps cum Sr Software Engineer. </span>
+      Uttam Gelot
+      <span
+         style="color:#186303; font-style: italic; font-size:14px;">// DevOps cum Sr Software Engineer. </span>
    </p>
    <a
       href="https://www.linkedin.com/in/uttam-gelot"
    >
-      <img 
-         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF707&center=true&vCenter=true&width=435&lines=I+Write+Code.;Always+Learning.;DevOps+Cum+Backend+Developer." 
+      <img
          alt="Uttam Gelot"
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3DF707&center=true&vCenter=true&width=435&lines=I+Write+Code.;Always+Learning.;DevOps+Cum+Backend+Developer."
       />
    </a>
 
