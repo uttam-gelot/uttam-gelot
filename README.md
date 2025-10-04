@@ -71,13 +71,12 @@
 ## 👦 About Me
 
 <ul>
-  <li>I am a DevOps cum Sr Software Engineer with 3+ years of experience in the IT industry.</li>
-  <li>Strong understanding of the software development life cycle</li>
-  <li>Quick learner and adaptable to new technologies</li>
-  <li>Experience developing scalable web applications and databases</li>
-  <li>Proficient in Git, Github, NodeJS, and Python</li>
-  <li>Experience working with AWS services and developing CI/CD pipelines using Github or Jenkins</li>
+  <li>Full-Stack Developer / Director of Engineering with 5+ years of experience in architecting scalable microservices, REST APIs, and enterprise integrations</li>
+  <li>Skilled in Node.js, TypeScript, NestJS, AWS and modern CI/CD pipelines</li>
+  <li>Proven record of delivering high-impact solutions across e-commerce, IoT, and automotive domains</li>
+  <li>Specializes in performance optimization, system architecture, and technical leadership</li>
   <li>Strong understanding of data structures, algorithms, networking fundamentals, and cloud infrastructure</li>
+  <li>Experience leading technical teams, conducting training sessions, and improving departmental efficiency</li>
 </ul>
 
 <hr/>
@@ -86,13 +85,16 @@
 
 <ul>
   <li>
-    <b>Bachlor's of Computer Engineering</b> - <i>2016-2020</i>
+    <b>Bachelor's of Computer Engineering</b> - <i>2016-2020</i>
     <ul>
+      <li>
+        <b>Institution</b> - <i>LJ Institute of Engineering & Technology</i>
+      </li>
       <li>
         <b>University</b> - <i>Gujarat Technological University</i>
       </li>
       <li>
-        <b>Percentage</b> - <i>8.98 CGPA</i>
+        <b>CGPA</b> - <i>8.98</i>
       </li>
     </ul>
   </li>
@@ -102,45 +104,114 @@
 
 ## 🏢 Experience
 
-### Sr Software Engineer - <i>2020 - Present</i>
+### Director of Engineering (NodeJS Department) - <i>April 2022 - Present</i>
 
-<!-- structure with company name, role responsibility & list of projects -->
 <ul>
    <li>
-      <b>Company</b> - <i>Bacancy Software LLP.</i>
+      <b>Company</b> - <i>Bacancy</i>
    </li>
    <li>
-      <b>Role</b> - <i>Sr Software Engineer</i>
+      <b>Summary</b> - <i>Leading NodeJS department overseeing architecture, planning, and team execution for global projects.</i>
    </li>
    <li>
-      <b>Projects</b>
+      <b>Key Achievements</b>
+      <ul>
+         <li>Progressed from Senior Engineer → Lead → Engineering Manager → Director</li>
+         <li>Architect scalable systems, design robust databases, and oversee DevOps pipelines</li>
+         <li>Lead client-facing delivery, technical strategy, and recruitment initiatives</li>
+         <li>Mentor engineers, conduct training sessions and improve departmental efficiency</li>
+      </ul>
+   </li>
+   <li>
+      <b>Key Projects</b>
       <ul>
          <li>
-         <b>Project Name</b> - <i>Jakay: Car Market Place</i>
-         <ul>
-            <li>
-               <b>Project Description</b> - <i>E-commerce platform for selling old and new vehicles as individual seller or dealer. Buyer can purchase it with difference payment methods cards, bank transfer or via loan.</i>
-            </li>
-            <li>
-               <b>Technology Stack</b> - <i>NodeJS with Express, Postgres, JWT, PM2, AWS, Jenkins, Github, Stripe, Twilio, Nginx, Swagger</i>
-            </li>
-            <li>
-               <b>Responsibilities</b>
-               <ul>
-                  <li>Maintain code structure, Coding standards with ESList, Babel, etc.</li>
-                  <li>Database Schema Design.</li>
-                  <li>Developing REST APIs using NodeJS with Express with Swagger documentation.</li>
-                  <li>Developing CI/CD pipelines using Github, Jenkins.</li>
-                  <li>Working with AWS services like EC2, S3, ElastiCache, RDS, SES.</li>
-                  <li>Working with Linux servers.</li>
-                  <li>Working with Nginx as a reverse proxy.</li>
-                  <li>Working with PM2 for process management.</li>
-                  <li>Working with Stripe for payment gateway.</li>
-                  <li>Working with Twilio for SMS gateway.</li>
-                  <li>Working with Redis for caching.</li>
-               </ul>
-            </li>
-         </ul>
+            <b>E-commerce & Warehouse Integration Platform</b>
+            <ul>
+               <li>
+                  <b>Description</b> - <i>Platform integrating multiple e-commerce systems with warehouse partners</i>
+               </li>
+               <li>
+                  <b>Technology Stack</b> - <i>Node.js, TypeScript, NestJS, PostgreSQL, AWS, Docker, Kubernetes, Elasticsearch, Sentry, Grafana, Feature Flags (Unleash)</i>
+               </li>
+               <li>
+                  <b>Achievements</b>
+                  <ul>
+                     <li>Integrated Shopify, WooCommerce, Billbee with DHL and JTL</li>
+                     <li>Improved API performance by 40% and reduced latency from 4s to 50ms</li>
+                     <li>Implemented feature flags (Unleash) for safe rollouts</li>
+                     <li>Set up Sentry, Elasticsearch, and CloudWatch for monitoring</li>
+                  </ul>
+               </li>
+            </ul>
+         </li>
+         <li>
+            <b>Automotive Marketplace & Finance Platform</b>
+            <ul>
+               <li><b>Description</b> - <i>End-to-end backend platform for vehicle trading, loans, and consultation workflows</i></li>
+               <li><b>Technology Stack</b> - <i>Node.js, PostgreSQL, Redis, Stripe, Twilio, Jenkins, Swagger, PM2, Nginx</i></li>
+               <li>Architected backend from scratch with PostgreSQL and Redis</li>
+               <li>Integrated Stripe and Twilio for payments and notifications</li>
+               <li>Managed Jenkins CI/CD pipelines and API documentation with Swagger</li>
+            </ul>
+         </li>
+      </ul>
+   </li>
+</ul>
+
+### Senior Web Developer - <i>June 2021 - March 2022</i>
+
+<ul>
+   <li>
+      <b>Company</b> - <i>Excellent Webworld</i>
+   </li>
+   <li>
+      <b>Summary</b> - <i>Led web and IoT projects using Node.js, MySQL, MQTT, and AWS for international clients.</i>
+   </li>
+   <li>
+      <b>Key Achievements</b>
+      <ul>
+         <li>Developed IoT-based smart home and e-commerce solutions</li>
+         <li>Led technical teams ensuring best practices in design and scalability</li>
+         <li>Collaborated with clients on architecture, estimations, and deployment strategy</li>
+      </ul>
+   </li>
+   <li>
+      <b>Key Project: Smart Home Solution</b>
+      <ul>
+         <li><b>Description</b> - <i>IoT backend with MQTT broker and admin interface for device management</i></li>
+         <li><b>Technology Stack</b> - <i>TypeScript, AdonisJS, MySQL, MQTT, AWS</i></li>
+         <li>Developed MQTT-based communication layer for real-time IoT control</li>
+         <li>Architected backend in TypeScript with AdonisJS and MySQL</li>
+         <li>Managed AWS infrastructure and deployments</li>
+      </ul>
+   </li>
+</ul>
+
+### Full Stack Developer - <i>November 2020 - May 2021</i>
+
+<ul>
+   <li>
+      <b>Company</b> - <i>PulsAero Agency</i>
+   </li>
+   <li>
+      <b>Summary</b> - <i>Built full-stack applications integrating ad platforms and automation systems.</i>
+   </li>
+   <li>
+      <b>Key Achievements</b>
+      <ul>
+         <li>Created ad analytics dashboard integrating Google & Facebook APIs</li>
+         <li>Developed automation scripts with Python for data processing</li>
+         <li>Worked with Webflow and Three.js to deliver interactive frontends</li>
+      </ul>
+   </li>
+   <li>
+      <b>Key Project: Art Museum (Virtual 3D)</b>
+      <ul>
+         <li><b>Description</b> - <i>3D interactive virtual art museum built with Webflow and Three.js</i></li>
+         <li><b>Technology Stack</b> - <i>Three.js, Blender, Webflow, GCP</i></li>
+         <li>Built 3D environment for virtual galleries using Blender and Three.js</li>
+         <li>Integrated e-commerce and asset hosting via GCP and Webflow</li>
       </ul>
    </li>
 </ul>
