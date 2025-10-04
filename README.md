@@ -226,8 +226,58 @@
 <img src="https://github-readme-stats.vercel.app/api?username=uttam-gelot&show_icons=true&theme=buefy&count_private=true" alt="my github stats" width="420"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=uttam-gelot" width="420" height="165">
 </p>
-     
+
+<p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttam-gelot&layout=compact&theme=buefy&langs_count=8" alt="Top Languages" width="420"/>
+</p>
+
 </div>
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+   <img src="https://github-profile-trophy.vercel.app/?username=uttam-gelot&theme=flat&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</p>
+
+### 📊 Contribution Graph
+
+<p align="left">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=uttam-gelot&theme=github-compact&hide_border=true" alt="Contribution Graph" />
+</p>
+
+### 💻 Tech Stack & Skills
+
+<p align="left">
+   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+</p>
+
+<p align="left">
+   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+<p align="left">
+   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+   <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
+
+<p align="left">
+   <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+   <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt="Elasticsearch" />
+   <img src="https://img.shields.io/badge/Sentry-black?style=for-the-badge&logo=sentry&logoColor=white" alt="Sentry" />
+   <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+</p>
 
 </p>
 <hr>
